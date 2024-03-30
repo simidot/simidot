@@ -2,7 +2,6 @@
 <h3 align="center"> to my Github 👋</h3>
 
 <br>
-<br>
 
 <h2>
   🛠 What I'm Learning 🛠
@@ -51,11 +50,23 @@
 
 <br>
 
+<h2>🌟 My Project 🌟</h2>
+
+### [[개인] 🛒 ShoppingMall Project](https://github.com/simidot/Shoppingmall_PJ)
+
+### [[팀] 📕 Eco Reading](https://github.com/simidot/eco_reading)
+
+### [[팀] 🖋️ Nct Community](https://github.com/simidot/nctminiproject)
+
+<br>
+
 <h2>
   🤓 Where I Record (Links) 🤓
 </h2>
 <a href="https://hehesim.tistory.com/"><img src="https://img.shields.io/badge/Tistory-FF6347?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 <a href="https://github.com/simidot/Today-I-Learned.git"/><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white"/></a>
+
+<br>
 
 <h2>
   🖥️ Top Langs 🖥️

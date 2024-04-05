@@ -54,6 +54,8 @@
 
 ### [[개인] 🛒 ShoppingMall Project](https://github.com/simidot/Shoppingmall_PJ)
 
+### [[팀] 🎇 Stage Alarm](https://github.com/simidot/stage_alarm)
+
 ### [[팀] 📕 Eco Reading](https://github.com/simidot/eco_reading)
 
 ### [[팀] 🖋️ Nct Community](https://github.com/simidot/nctminiproject)
